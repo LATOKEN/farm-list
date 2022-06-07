@@ -1,0 +1,128 @@
+{
+    "name": "Latoken",
+    "logoURI": "https://cryptologos.cc/logos/latoken-la-logo.svg",
+    "keywords": ["latoken", "defi"],
+    "timestamp": "2021-12-13T11:16:33+00:00",
+    "farms": [
+        {
+            "chainId": 43114,
+            "id": "mai-qi-wavax",
+            "name": "QI-AVAX LP",
+            "oracle": "lps",
+            "oracleId": "mai-qi-wavax",
+            "depositToken": "AVAX",
+            "depositResourceID": "0x9d946026376dfbfdd2a238d40272264ece2b43fe3ba6e7b911568908b1bc7c00",
+            "withdrawResourceID": "0x9d946026376dfbfdd2a238d40272264ece2b43fe3ba6e7b911568908b1bc7c01",
+            "pairAddress": "0x05366F13d5f655FFB2d2ABb7b2ba005b12eB8bdE",
+            "vaultAddress": "0x0D48E4E02eA44003b44360B9045F5A562890B1c6",
+            "routerAddress": "0x60aE616a2155Ee3d9A68541Ba4544862310933d4"
+        },
+        {
+            "chainId": 43114,
+            "id": "aavev3-avax",
+            "name": "AVAX",
+            "oracle": "tokens",
+            "oracleId": "AVAX",
+            "depositToken": "AVAX",
+            "depositResourceID": "0x9d946026376dfbfdd2a238d40272264ece2b43fe3ba6e7b911568908b1bc7cd0",
+            "withdrawResourceID": "0x9d946026376dfbfdd2a238d40272264ece2b43fe3ba6e7b911568908b1bc7cd1",
+            "vaultAddress": "0x1B156C5c75E9dF4CAAb2a5cc5999aC58ff4F9090"
+        },
+        {
+            "chainId": 43114,
+            "id": "joe-usdt-wavax",
+            "name": "USDT-AVAX LP",
+            "oracle": "lps",
+            "oracleId": "joe-usdt-wavax",
+            "depositToken": "AVAX",
+            "depositResourceID": "0x9d946026376dfbfdd2a238d40272264ece2b43fe3ba6e7b911568908b1aa7c10",
+            "withdrawResourceID": "0x9d946026376dfbfdd2a238d40272264ece2b43fe3ba6e7b911568908b1aa7c11",
+            "pairAddress": "0xbb4646a764358ee93c2a9c4a147d5aDEd527ab73",
+            "vaultAddress": "0xe7f4AB519b20A0F4dF71B9ad9147b9cd4f183349",
+            "routerAddress": "0x60aE616a2155Ee3d9A68541Ba4544862310933d4"
+        },
+        {
+            "chainId": 43114,
+            "id": "joe-usdt-wavax",
+            "name": "USDT-AVAX LP",
+            "oracle": "lps",
+            "oracleId": "joe-usdt-wavax",
+            "depositToken": "USDT",
+            "depositResourceID": "0x9d946026376dfbfdd2a238d40272264ece2b43fe3ba6e7b911568908b1aa7c20",
+            "withdrawResourceID": "0x9d946026376dfbfdd2a238d40272264ece2b43fe3ba6e7b911568908b1aa7c21",
+            "pairAddress": "0xbb4646a764358ee93c2a9c4a147d5aDEd527ab73",
+            "vaultAddress": "0xe7f4AB519b20A0F4dF71B9ad9147b9cd4f183349",
+            "routerAddress": "0x60aE616a2155Ee3d9A68541Ba4544862310933d4"
+        },
+        {
+            "chainId": 56,
+            "id": "ripae-pbnb-bnb",
+            "name": "pBNB-BNB LP",
+            "oracle": "lps",
+            "oracleId": "ripae-pbnb-bnb",
+            "depositToken": "BNB",
+            "depositResourceID": "0xf732945145c916dbd9d0edb00eff58128423b87a44cb7f4a6e50577b78359a00",
+            "withdrawResourceID": "0xf732945145c916dbd9d0edb00eff58128423b87a44cb7f4a6e50577b78359a01",
+            "pairAddress": "0xC7DC9343C90Be0Ea2af6776EFe5e19B2734F8D0d",
+            "vaultAddress": "0x8C6069624e746513Ac1B1d1434aABbEDA152f181",
+            "routerAddress": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8"
+        },
+        {
+            "chainId": 56,
+            "id": "baby-bnb-usdt",
+            "name": "BNB-USDT LP",
+            "oracle": "lps",
+            "oracleId": "baby-bnb-usdt",
+            "depositToken": "BNB",
+            "depositResourceID": "0xf732945145c916dbd9d0edb00eff58128423b87a44cb7f4a6e50577b78359a30",
+            "withdrawResourceID": "0xf732945145c916dbd9d0edb00eff58128423b87a44cb7f4a6e50577b78359a31",
+            "pairAddress": "0x04580ce6dEE076354e96fED53cb839DE9eFb5f3f",
+            "vaultAddress": "0xFC744521a921fEc005Fe5e91cca09878086E8526",
+            "routerAddress": "0x325E343f1dE602396E256B67eFd1F61C3A6B38Bd"
+        },
+        {
+            "chainId": 56,
+            "id": "baby-bnb-usdt",
+            "name": "BNB-USDT LP",
+            "oracle": "lps",
+            "oracleId": "baby-bnb-usdt",
+            "depositToken": "USDT",
+            "depositResourceID": "0xf732945145c916dbd9d0edb00eff58128423b87a44cb7f4a6e50577b78359a40",
+            "withdrawResourceID": "0xf732945145c916dbd9d0edb00eff58128423b87a44cb7f4a6e50577b78359a41",
+            "pairAddress": "0x04580ce6dEE076354e96fED53cb839DE9eFb5f3f",
+            "vaultAddress": "0xFC744521a921fEc005Fe5e91cca09878086E8526",
+            "routerAddress": "0x325E343f1dE602396E256B67eFd1F61C3A6B38Bd"
+        },
+        {
+            "chainId": 56,
+            "id": "banana-aave-bnb",
+            "name": "AAVE-BNB LP",
+            "oracle": "lps",
+            "oracleId": "banana-aave-bnb",
+            "depositToken": "BNB",
+            "depositResourceID": "0xf732945145c916dbd9d0edb00eff58128423b87a44cb7f4a6e50577b78359a10",
+            "withdrawResourceID": "0xf732945145c916dbd9d0edb00eff58128423b87a44cb7f4a6e50577b78359a11",
+            "pairAddress": "0xf13e007e181A8F57eD3a4D4CcE0A9ff9E7241CEf",
+            "vaultAddress": "0x2EF1B47174d9f9bC6e9a37E863928C0E6100324d",
+            "routerAddress": "0xC0788A3aD43d79aa53B09c2EaCc313A787d1d607"
+        },
+        {
+            "chainId": 56,
+            "id": "cakev2-uni-bnb",
+            "name": "UNI-BNB LP",
+            "oracle": "lps",
+            "oracleId": "cakev2-uni-bnb",
+            "depositToken": "BNB",
+            "depositResourceID": "0xf732945145c916dbd9d0edb00eff58128423b87a44cb7f4a6e50577b78359a20",
+            "withdrawResourceID": "0xf732945145c916dbd9d0edb00eff58128423b87a44cb7f4a6e50577b78359a21",
+            "pairAddress": "0x014608E87AF97a054C9a49f81E1473076D51d9a3",
+            "vaultAddress": "0xb3127Fe584E0A522857D1dAfb8ef0b8CE7E9A9c2",
+            "routerAddress": "0x10ED43C718714eb63d5aA57B78B54704E256024E"
+        }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+  }
